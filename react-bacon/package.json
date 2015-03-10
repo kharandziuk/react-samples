@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "6to5ify": "^3.1.2",
+    "browserify": "latest",
+    "coffeeify": "^1.0.0",
+    "watchify": "latest"
+  },
+  "scripts": {
+    "build-js": "gulp js",
+    "watch-js": "gulp watch"
+  }
+}
